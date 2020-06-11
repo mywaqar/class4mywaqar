@@ -33,7 +33,7 @@ jobs:
        
     - run: yarn build
       
-    - run: npm instal -g surge
+    - run: npm install -g surge
       
     - run: sutge ./build class4mywaqar/surge.sh --token ${{ secrets.CLASS4_TOKEN }}
             
