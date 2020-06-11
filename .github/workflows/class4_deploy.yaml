@@ -35,7 +35,7 @@ jobs:
       
     - run: npm install -g surge
       
-    - run: surge ./build class4mywaqar/surge.sh --token ${{ secrets.CLASS4_TOKEN }}
+    - run: surge ./build class4mywaqar.surge.sh --token ${{ secrets.CLASS4_TOKEN }}
             
       
       
