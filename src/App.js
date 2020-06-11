@@ -12,7 +12,7 @@ import Room from './Room'
 
   return (
           <div className = "App">
-            <h1>Bootcamp Class 4 - Assignment</h1>
+            <h2>Bootcamp Class 4 - Assignment</h2>
             <hr/>
             <Counter count={Num}/>
             <button className = "button button1" onClick = {
@@ -41,7 +41,7 @@ import Room from './Room'
             <br/>
 
 
-            <h2>Waqar Azeem <br/>Git Hub: github.com/mywaqar/class4mywaqar<br/>SurgeURL: class4mywaqar.surge.sh</h2>
+            <h3>Waqar Azeem <br/>Git Hub: github.com/mywaqar/class4mywaqar<br/>SurgeURL: class4mywaqar.surge.sh</h3>
 
           </div>
 
